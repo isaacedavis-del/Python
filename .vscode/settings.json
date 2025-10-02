@@ -1,0 +1,8 @@
+{
+    "python-envs.pythonProjects": [],
+    "python.analysis.extraPaths": [
+        "./PCAP/Module 1",
+        "./PCAP/Module 1/modules",
+        "./PCAP/Module 1/packages"
+    ]
+}
